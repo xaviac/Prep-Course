@@ -150,7 +150,7 @@ function diaDeLaSemana(numeroDeDia) {
     return "Es fin de semana";
   } else {
     return "Es dia Laboral";
-  }  
+  }
 } 
 
 
